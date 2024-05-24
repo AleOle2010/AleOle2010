@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AleOle2010
-- 👀 I’m interested in Hacking, AI and computer programming (some apps, programs, alghoritms, etc.)
+- 👀 I’m interested in Hacking, AI and computer programming (some apps, programs, alghoritms etc.)
 - 🌱 I’m currently learning Ethical Hacking and Cybersecurity 
 - 💞️ I’m looking to collaborate on some Python/HTML/CSS/JS programs (I also need a graphic designer)
   Unfortunately, my English is poor, but I will be happy to cooperate with people who speak Polish
