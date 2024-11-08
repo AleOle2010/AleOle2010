@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AleOle2010
+- 👋 Hi, I’m @AleOle2010.
 - 👀 I’m interested in Hacking, AI and computer programming (some apps, programs, alghoritms etc.)
 - 🌱 I’m currently learning Ethical Hacking and Cybersecurity 
-- 💞️ I’m looking to collaborate on some Python/HTML/CSS/JS programs (I also need a graphic designer)
-  Unfortunately, my English is not very good (I'm still studying), but I will be happy to cooperate with people who speak Polish
-  I am looking for people aged 10 to 15
+- 💞️ I’m looking to collaborate on some Python/HTML/CSS/JS programs (I also need a graphic designer).
+  Unfortunately, my English is not very good (I'm still studying), but I will be happy to cooperate with people who speak Polish.
+  I am looking for people aged 12 to 17.
 - 📫 You can reach me here:
   Email: aleole2010@gmail.com
   Discord: aleole2010
